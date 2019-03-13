@@ -1,11 +1,11 @@
 {
-	"name": "s9e/flarum-ext-mediaembed",
+	"name": "anankke/flarum-ext-mediaembed",
 	"description": "Embed third-party content in your Flarum.",
 	"type": "flarum-extension",
-	"keywords": ["flarum","embed","facebook","media","twitter","twitch","youtube"],
+	"keywords": ["flarum","embed","bilibili","media","netease"],
 	"version": "1.0.0",
 	"author": {
-		"name": "JoshyPHP"
+		"name": "Anankke"
 	},
 	"license": "MIT",
 	"require": {
@@ -13,12 +13,12 @@
 		"flarum/core": ">=0.1.0-beta.8"
 	},
 	"support": {
-		"source": "https://github.com/s9e/flarum-ext-mediaembed",
-		"issues": "https://github.com/s9e/flarum-ext-mediaembed/issues"
+		"source": "https://github.com/Anankke/flarum-ext-mediaembed-fix",
+		"issues": "https://github.com/Anankke/flarum-ext-mediaembed-fix/issues"
 	},
 	"extra": {
 		"flarum-extension": {
-			"title": "MediaEmbed",
+			"title": "MediaEmbed-Fix",
 			"icon": {
 				"name": "youtube-play",
 				"backgroundColor": "#cc181e",
